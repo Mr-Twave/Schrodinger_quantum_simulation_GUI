@@ -12,3 +12,5 @@ This is a demonstration piece of code. This code is not complete, however I inte
 My personal choice with this code was not to make it an object-oriented dependent code, instead relying on functions to perform what objects do. That said, libraries will perform some object-oriented activities. The list of libraries is currently longer than it needs to be on purpose, however it will be shorter in future versions of code.
 
 The code is in a development stage, it has at least 4 critical bugs.
+
+You can expect a QoL update before 02/17/24 as long as my busy-ness doesn't catch up to me.
